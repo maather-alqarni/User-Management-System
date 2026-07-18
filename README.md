@@ -61,7 +61,7 @@ Table name: users
 ---
 
 ## 📸 Screenshot
-[Screenshot](user.png)
+![Screenshot](user.png)
 
 ---
 
