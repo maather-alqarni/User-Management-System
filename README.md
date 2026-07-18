@@ -66,7 +66,7 @@ Table name: users
 ---
 
 ## 🔗 Live Demo
-[link](https://maather.great-site.net/index.php)
+![link](https://maather.great-site.net/index.php)
 
 ---
 
