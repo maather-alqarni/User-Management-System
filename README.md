@@ -38,12 +38,12 @@ Used for interactivity:
 
 ## ⚙️ Features
 
-- ✅ Add new user
-- ✅ Display all users
-- ✅ Toggle status (0 ⇄ 1)
-- ✅ Update status instantly without page refresh
-- ✅ Delete user with confirmation
-- ✅ Edit user (optional if implemented)
+-  Add new user
+-  Display all users
+-  Toggle status (0 ⇄ 1)
+-  Update status instantly without page refresh
+-  Delete user with confirmation
+-  Edit user (optional if implemented)
 
 ---
 
